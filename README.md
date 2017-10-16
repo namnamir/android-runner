@@ -17,6 +17,10 @@ To run an experiment, run:
 ```bash
 python android_runner your_config.json
 ```
+or
+```bash
+python __main__.py your_config.json
+```
 There is an example configuration file in `example/example_config.json`
 
 ## Structure
